@@ -1,0 +1,134 @@
+body {
+    background: #051937;
+    color: white;
+}
+
+.formulario {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: 1px solid white;
+    padding: 30px 0px;
+    margin: 50px;
+}
+
+.item {
+    color: white;
+    padding: 10px;
+
+}
+
+a{
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+}
+
+.lista {
+    margin: 50px;
+}
+
+.editar{
+    align-items: center;
+    display: flex;
+}
+
+.inputs{
+    color: white;
+    outline: none;
+    margin: 0px 30px;
+    height: 40px;
+    background: none;
+    border: none;
+    border-radius: 5px;
+    border-bottom: 1px solid white;
+}
+
+
+
+
+
+
+
+
+
+
+.css-button-3d--blue {
+    min-width: 130px;
+    height: 40px;
+    color: #fff;
+    padding: 5px 10px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    display: inline-block;
+    outline: none;
+    border-radius: 5px;
+    border: none;
+    background: #3d348b;
+    box-shadow: 0 5px #2c0b8e;
+}
+
+.css-button-3d--blue:hover {
+    box-shadow: 0 3px #2c0b8e;
+    top: 1px;
+}
+
+.css-button-3d--blue:active {
+    box-shadow: 0 0 #2c0b8e;
+    top: 5px;
+}
+
+
+.css-button-3d--red {
+    min-width: 120px;
+    height: 30px;
+    color: #fff;
+    padding: 5px 10px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    display: inline-block;
+    outline: none;
+    border-radius: 5px;
+    border: none;
+    background: #ef233c;
+    box-shadow: 0 5px #d90429;
+  }
+  .css-button-3d--red:hover {
+    box-shadow: 0 3px #d90429;
+    top: 1px;
+  }
+  .css-button-3d--red:active {
+    box-shadow: 0 0 #d90429;
+    top: 5px;
+}
+
+
+.css-button-3d--green {
+    min-width: 130px;
+    height: 40px;
+    color: #fff;
+    padding: 5px 10px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    display: inline-block;
+    outline: none;
+    border-radius: 5px;
+    border: none;
+    background: #80ed99;
+    box-shadow: 0 5px #57cc99;
+  }
+  .css-button-3d--green:hover {
+    box-shadow: 0 3px #57cc99;
+    top: 1px;
+  }
+  .css-button-3d--green:active {
+    box-shadow: 0 0 #57cc99;
+    top: 5px;
+  }
